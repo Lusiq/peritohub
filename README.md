@@ -1,2 +1,5 @@
 # PeritoHub
-Sistema de gestão de laudos técnicos.
+
+Sistema para gestão de laudos técnicos.
+
+Desenvolvido em Next.js.
