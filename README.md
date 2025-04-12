@@ -1,3 +1,3 @@
 # PeritoHub
 
-Sistema para gestão de laudos técnicos.
+System for managing technical reports.
